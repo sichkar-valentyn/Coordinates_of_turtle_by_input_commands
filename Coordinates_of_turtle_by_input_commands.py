@@ -1,3 +1,15 @@
+# File: Coordinates_of_turtle_by_input_commands.py
+# Description: Calculating final coordinates for turtle by input commands
+# Environment: PyCharm and Anaconda environment
+#
+# MIT License
+# Copyright (c) 2018 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+#
+# Reference to:
+# [1] Valentyn N Sichkar. Calculating final coordinates for turtle by input commands // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Coordinates_of_turtle_by_input_commands (date of access: XX.XX.XXXX)
+
+
 # Implementing the task
 # Find out the final coordinats of turtle by calculating input commands
 d = {}
@@ -35,6 +47,3 @@ for x in d:
 
 # Showing the results - final point
 print(first, second)
-    
-
-    
