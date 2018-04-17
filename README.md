@@ -11,7 +11,7 @@ Input commands are in the following format:
 <br/>west 20
 <br/>east 40
 
-<br/><br/>Output will be summarised values of final point:
+<br/>Output will be summarised values of final point:
 <br/>20 -20
 
 ## MIT License
